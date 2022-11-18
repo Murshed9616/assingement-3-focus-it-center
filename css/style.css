@@ -1,0 +1,16 @@
+:root {
+    --font-primary: 'Poppins', sans-serif;
+}
+
+.font {
+    font-family: var(--font-primary);
+}
+
+/* header section start here*/
+
+.headline {
+    font-size: 50px;
+    color: bisque;
+}
+
+/* header section end here*/
